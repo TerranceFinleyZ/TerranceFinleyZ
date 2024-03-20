@@ -9,7 +9,7 @@ I've been Programming for several years; my goals are to one day become a high l
 * 🌍  I'm based in Tucson, Arizona
 * 🖥️  See my portfolio at [https://terrancefinley.online/](http://terrancefinley.online/)
 * ✉️  You can contact me at [zealotschrist@gmail.com](mailto:zealotschrist@gmail.com)
-* 🚀  I'm currently working on [unfiltered ChatGPT-AI](http://github.com/TerranceFinleyZ/ChatGPT)
+* 🚀  I'm currently working on [unfiltered ChatGPT-AI](https://github.com/TerranceFinleyZ/imperial-tech)
 * 🧠  I'm learning Game Development, Machine learning, Kali Linux, Monorepos, Elixir language.
 * 🤝  I'm open to collaborating on Building a Web builder Saas platform & Web Browser Engineering
 * ⚡  Ask me about my start up!
