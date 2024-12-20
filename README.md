@@ -13,6 +13,8 @@ I've been Programming for several years; my goals are to one day become a high l
 * 🧠  I'm learning Game Development, Machine learning, Kali Linux, Monorepos, Elixir language.
 * 🤝  I'm open to collaborating on Building a Web builder Saas platform & Web Browser Engineering
 * ⚡  Ask me about my start up!
+* 
+* <img align="right" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" />
 
 <a href="https://www.github.com/TerranceFinleyZ" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TerranceFinleyZ?logo=github&style=for-the-badge&color=f97316&labelColor=171717" /></a>
