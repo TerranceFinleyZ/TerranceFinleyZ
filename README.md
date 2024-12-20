@@ -6,7 +6,7 @@ Sr. Software Engineer
 
 I've been Programming for several years; my goals are to one day become a high level Quantime computing engineer and retire working for a M,A,N,G,A company.
 
-<img align="right" alt="coding gif" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt="coding gif" width="400" border="300" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 * 🌍  I'm based in Tucson, Arizona
 * 🖥️  See my portfolio at [https://terrancefinley.online/](http://terrancefinley.online/)
