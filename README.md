@@ -4,7 +4,7 @@ Salutations ![](https://user-images.githubusercontent.com/18350557/176309783-078
 Sr. Software Engineer
 ---------------------
 
-I've been Programming for several years; my goals are to one day become a high level Quantime computing engineer and retire working for a M,A,N,G,A company.
+My goals are to one day become a high level Quantime computing engineer and retire working for a M,A,N,G,A company.
 
 <img align="right" alt="coding gif" width="400" border="300" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
