@@ -12,9 +12,9 @@ With 5 years of full-stack development experience under my belt, I'm a highly mo
 * 🖥️  See my portfolio at [https://terrancefinley.online/](http://terrancefinley.online/)
 * ✉️  You can contact me at [zealotschrist@gmail.com](mailto:zealotschrist@gmail.com)
 * 🚀  I'm currently working on [My-Tech Agency](https://github.com/TerranceFinleyZ/imperial-tech)
-* 🧠  I'm learning Game Development, Machine learning, Kali Linux, Monorepos, Elixir language.
-* 🤝  I'm open to collaborating on Building a Web builder Saas platform & Web Browser Engineering.
-* ⚡  Ask me about my start up!
+* 🧠  I'm learning Game Development, Machine learning, Kali Linux & DNS servers.
+* 🤝  I'm open to collaborating.
+* ⚡  Ask me about my start up and Ai systems!
 
 <a href="https://www.github.com/TerranceFinleyZ" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TerranceFinleyZ?logo=github&style=for-the-badge&color=f97316&labelColor=171717" /></a>
