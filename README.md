@@ -4,7 +4,7 @@
 Sr. Software Engineer.
 ---------------------
 
-My goals are to one day become a high level Quantime computing engineer and retire working for a M,A,N,G,A company.
+With 5 years of full-stack development experience under my belt, I'm a highly motivated and results-oriented developer. I'm looking for a collaborative and supportive company culture where I can contribute to meaningful projects and thrive within a talented team.
 
 <img align="right" alt="coding gif" width="400" border="300" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
