@@ -9,7 +9,7 @@ With 5 years of full-stack development experience under my belt, I'm a highly mo
 <img align="right" alt="coding gif" width="400" border="300" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 * 🌍  I'm based in Tucson, Arizona.
-* 🖥️  See my portfolio at [https://terrancefinley.online/](https://imperial-heart.netlify.app/)
+* 🖥️  See my portfolio at [https://terrancefinley.online/](https://terrance-portfolio.netlify.app/)
 * ✉️  You can contact me at [zealotschrist@gmail.com](mailto:zealotschrist@gmail.com)
 * 🚀  I'm currently working on [My-Tech Agency](https://github.com/TerranceFinleyZ/imperial-tech)
 * 🧠  I'm learning Game Development, Machine learning, Kali Linux & DNS servers.
