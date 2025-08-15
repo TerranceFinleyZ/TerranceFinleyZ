@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Salutations, my name is Terrance Finley.
 =========================================================================================================================================
 
-Sr.Software Architect
+Sr. Software Architect
 ---------------------
 
 With 5 years of full-stack development experience under my belt, I'm a highly motivated and results-oriented developer. I'm looking for a collaborative and supportive company culture where I can contribute to meaningful projects and thrive within a talented team.
