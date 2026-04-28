@@ -12,7 +12,7 @@ With 5 years of full-stack development experience, I'm a highly motivated and re
 
 ## 📫 About Me
 
-- 🌍 &nbsp;**Location:** Tucson, Arizona  
+- 🌍 &nbsp;**Location:** Tempe, Arizona  
 - 🖥️ &nbsp;**Portfolio:** [empireworld.studio](https://empireworld.studio/)  
 - ✉️ &nbsp;**Email:** [zealotschrist@gmail.com](mailto:zealotschrist@gmail.com)  
 - 🚀 &nbsp;**Current Project:** [My-Tech Agency](https://github.com/TerranceFinleyZ/imperial-tech)  
@@ -25,21 +25,19 @@ With 5 years of full-stack development experience, I'm a highly motivated and re
 ## 🧰 Skills
 
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" alt="C#" />
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" alt="Next.js" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" alt="JavaScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" alt="React" />
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="40" alt="Blender" />
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" alt="Python" />
   </a>
-  <!-- Add more icons as needed, see: https://github.com/danielcranney/readme-generator#skills for full list -->
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" alt="C#" />
+  </a>
 </p>
-
 ---
 
 ## 🌐 Socials
